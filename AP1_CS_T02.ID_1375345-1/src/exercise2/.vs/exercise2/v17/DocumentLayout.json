@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFC31B-EC3D-404A-A0BF-5067A6C7EFA9}|exercise2.csproj|c:\\users\\pearlibl\\school21\\ap1_cs_t02.id_1375345-1\\src\\exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FFC31B-EC3D-404A-A0BF-5067A6C7EFA9}|exercise2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFC31B-EC3D-404A-A0BF-5067A6C7EFA9}|exercise2.csproj|c:\\users\\pearlibl\\school21\\ap1_cs_t02.id_1375345-1\\src\\exercise2\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FFC31B-EC3D-404A-A0BF-5067A6C7EFA9}|exercise2.csproj|solutionrelative:plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFC31B-EC3D-404A-A0BF-5067A6C7EFA9}|exercise2.csproj|c:\\users\\pearlibl\\school21\\ap1_cs_t02.id_1375345-1\\src\\exercise2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FFC31B-EC3D-404A-A0BF-5067A6C7EFA9}|exercise2.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFC31B-EC3D-404A-A0BF-5067A6C7EFA9}|exercise2.csproj|c:\\users\\pearlibl\\school21\\ap1_cs_t02.id_1375345-1\\src\\exercise2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FFC31B-EC3D-404A-A0BF-5067A6C7EFA9}|exercise2.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise2\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise2\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:49:30.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise2\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise2\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:48:32.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise2\\Plane.cs",
+              "RelativeDocumentMoniker": "Plane.cs",
+              "ToolTip": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise2\\Plane.cs",
+              "RelativeToolTip": "Plane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:47:29.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:37:07.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

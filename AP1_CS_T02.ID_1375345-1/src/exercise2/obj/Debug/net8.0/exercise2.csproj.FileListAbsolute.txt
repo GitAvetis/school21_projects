@@ -1,0 +1,14 @@
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\bin\Debug\net8.0\exercise2.exe
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\bin\Debug\net8.0\exercise2.deps.json
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\bin\Debug\net8.0\exercise2.runtimeconfig.json
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\bin\Debug\net8.0\exercise2.dll
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\bin\Debug\net8.0\exercise2.pdb
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\obj\Debug\net8.0\exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\obj\Debug\net8.0\exercise2.AssemblyInfoInputs.cache
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\obj\Debug\net8.0\exercise2.AssemblyInfo.cs
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\obj\Debug\net8.0\exercise2.csproj.CoreCompileInputs.cache
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\obj\Debug\net8.0\exercise2.dll
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\obj\Debug\net8.0\refint\exercise2.dll
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\obj\Debug\net8.0\exercise2.pdb
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\obj\Debug\net8.0\exercise2.genruntimeconfig.cache
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise2\obj\Debug\net8.0\ref\exercise2.dll

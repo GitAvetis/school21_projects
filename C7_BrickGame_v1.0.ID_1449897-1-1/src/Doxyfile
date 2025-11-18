@@ -1,0 +1,56 @@
+# Basic project settings
+PROJECT_NAME           = "Tetris Game"
+PROJECT_NUMBER         = 1.0
+PROJECT_BRIEF          = "C implementation of Tetris game with ncurses"
+OUTPUT_DIRECTORY       = docs
+OUTPUT_LANGUAGE        = English
+
+# Input files
+INPUT                  = brick_game/tetris/backend.c \
+                         brick_game/tetris/backend.h \
+                         brick_game/brick_game.h \
+                         gui/cli/front.c \
+                         gui/cli/front.h \
+                         tests/test.c \
+                         tests/test.h \
+                         tests/test_game.c
+                         FSM_image.png                            # Схема КА
+
+
+FILE_PATTERNS          = *.c *.h
+RECURSIVE              = YES
+
+# Extraction settings
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_METHODS  = YES
+
+# Output formats - HTML ONLY
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+
+# HTML settings
+HTML_OUTPUT            = html
+HTML_FILE_EXTENSION    = .html
+HTML_COLORSTYLE_HUE    = 220
+HTML_COLORSTYLE_SAT    = 100
+HTML_COLORSTYLE_GAMMA  = 80
+
+# Support for images
+IMAGE_PATH             = /Users/artem/C7_BrickGame_v1.0.ID_1449897-1-1/src
+
+# Diagrams (optional)
+HAVE_DOT               = NO
+CALL_GRAPH             = NO
+CALLER_GRAPH           = NO
+
+# Aliases for documentation
+ALIASES                = "note=\par Note:\n"
+ALIASES               += "warning=\par Warning:\n"
+ALIASES               += "todo=\par TODO:\n"
+
+# Predefined macros
+PREDEFINED             = FIELD_WIDTH=10 \
+                         FIELD_HEIGHT=20 \
+                         TETR_SIZE=5

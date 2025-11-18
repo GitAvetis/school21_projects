@@ -1,0 +1,56 @@
+stages:
+  - build
+  - style
+  - test
+  - deploy
+
+build_simplebashutils:
+  stage: build
+  script:
+    - echo "Building s21_cat"
+    - cd src/cat && make
+    - echo "Building s21_grep"
+    - cd ../grep && make
+  artifacts:
+    paths:
+      - src/cat/s21_cat
+      - src/grep/s21_grep
+    expire_in: 30 days
+
+code_style:
+  stage: style
+  script:
+    - echo "Checking code style"
+    - cd src/cat && clang-format -n --Werror *.c *.h
+    - cd ../grep && clang-format -n --Werror *.c *.h
+  
+test_cat:
+  stage: test
+  script:
+    - echo "Checking cat util"
+    - cd src/cat && make && make tests
+
+test_grep:
+  stage: test
+  script:
+    - echo "Checking grep util"
+    - cd src/grep && make && make tests
+
+test_code-samples:
+  stage: test
+  script:
+    - echo "Checking code-samples tests"
+    - cd code-samples && make && make tests
+  after_script:
+    -  bash notify.sh
+
+
+deploy_to_vm: 
+  stage: deploy 
+  script: 
+    - whoami
+    - echo "Starting deployment stage" 
+    - bash deploy.sh
+  after_script:
+    -  bash notify.sh
+  when: manual

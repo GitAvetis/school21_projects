@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D3C4D5-F4E8-4480-867F-924ADA0FA545}|exercise4.csproj|c:\\users\\pearlibl\\school21\\ap1_cs_t02.id_1375345-1\\src\\exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D3C4D5-F4E8-4480-867F-924ADA0FA545}|exercise4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D3C4D5-F4E8-4480-867F-924ADA0FA545}|exercise4.csproj|c:\\users\\pearlibl\\school21\\ap1_cs_t02.id_1375345-1\\src\\exercise4\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D3C4D5-F4E8-4480-867F-924ADA0FA545}|exercise4.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D3C4D5-F4E8-4480-867F-924ADA0FA545}|exercise4.csproj|c:\\users\\pearlibl\\school21\\ap1_cs_t02.id_1375345-1\\src\\exercise4\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D3C4D5-F4E8-4480-867F-924ADA0FA545}|exercise4.csproj|solutionrelative:plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D3C4D5-F4E8-4480-867F-924ADA0FA545}|exercise4.csproj|c:\\users\\pearlibl\\school21\\ap1_cs_t02.id_1375345-1\\src\\exercise4\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D3C4D5-F4E8-4480-867F-924ADA0FA545}|exercise4.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D3C4D5-F4E8-4480-867F-924ADA0FA545}|exercise4.csproj|c:\\users\\pearlibl\\school21\\ap1_cs_t02.id_1375345-1\\src\\exercise4\\airship .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D3C4D5-F4E8-4480-867F-924ADA0FA545}|exercise4.csproj|solutionrelative:airship .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise4\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise4\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:41:36.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise4\\Plane.cs",
+              "RelativeDocumentMoniker": "Plane.cs",
+              "ToolTip": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise4\\Plane.cs",
+              "RelativeToolTip": "Plane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:41:23.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise4\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise4\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:41:17.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Airship .cs",
+              "DocumentMoniker": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise4\\Airship .cs",
+              "RelativeDocumentMoniker": "Airship .cs",
+              "ToolTip": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise4\\Airship .cs",
+              "RelativeToolTip": "Airship .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:41:08.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pearlibl\\school21\\AP1_CS_T02.ID_1375345-1\\src\\exercise4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAK0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:59:06.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

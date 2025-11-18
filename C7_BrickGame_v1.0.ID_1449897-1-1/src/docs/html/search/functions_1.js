@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['calculate_5flines_0',['calculate_lines',['../group__backend__module.html#gafc5b125f61453a7ed3fc361f8d47bd32',1,'calculate_lines(ModelInfo_t *actual_info):&#160;backend.c'],['../group__backend__module.html#gafc5b125f61453a7ed3fc361f8d47bd32',1,'calculate_lines(ModelInfo_t *actual_info):&#160;backend.c']]],
+  ['check_5frotate_5fcollision_1',['check_rotate_collision',['../group__backend__module.html#ga3ed08a83694ccff5af8b7c78cfdb420e',1,'check_rotate_collision(const ModelInfo_t *actual_info):&#160;backend.c'],['../group__backend__module.html#ga3ed08a83694ccff5af8b7c78cfdb420e',1,'check_rotate_collision(const ModelInfo_t *actual_info):&#160;backend.c']]],
+  ['clear_5fline_2',['clear_line',['../group__backend__module.html#gaffdcd7443c4308f34bde227996bcaaf0',1,'clear_line(int **field_base, int line):&#160;backend.c'],['../group__backend__module.html#gaffdcd7443c4308f34bde227996bcaaf0',1,'clear_line(int **field_base, int line):&#160;backend.c']]],
+  ['copy_5fmatrix_3',['copy_matrix',['../group__backend__module.html#ga247454856097181b89c0825dbe9bebf0',1,'copy_matrix(int **dest, int **src, int rows, int columns):&#160;backend.c'],['../group__backend__module.html#ga247454856097181b89c0825dbe9bebf0',1,'copy_matrix(int **dest, int **src, int rows, int columns):&#160;backend.c']]],
+  ['create_5fmatrix_4',['create_matrix',['../group__backend__module.html#ga1ab40e403d0bbadeee3b455deaa8c473',1,'create_matrix(int ***matrix, int rows, int columns):&#160;backend.c'],['../group__backend__module.html#ga1ab40e403d0bbadeee3b455deaa8c473',1,'create_matrix(int ***matrix, int rows, int columns):&#160;backend.c']]]
+];

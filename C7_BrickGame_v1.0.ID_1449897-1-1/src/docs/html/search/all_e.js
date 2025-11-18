@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['score_0',['score',['../group__backend__module.html#ga07956beb908f772172f661704cbf570a',1,'ModelInfo_t::score'],['../struct_game_info__t.html#a4a6b1b290cd3e129bf78992964cf4136',1,'GameInfo_t::score']]],
+  ['score_5foffset_5fcounter_1',['score_offset_counter',['../front_8c.html#a89ee85901b338807f65959f59c0d1be7',1,'score_offset_counter(int number):&#160;front.c'],['../front_8h.html#a89ee85901b338807f65959f59c0d1be7',1,'score_offset_counter(int number):&#160;front.c']]],
+  ['set_5ftetramino_5fon_5ffield_2',['set_tetramino_on_field',['../group__backend__module.html#ga223fd1d4589cc83ab39cef9c08580edf',1,'set_tetramino_on_field(int **field, ModelInfo_t *actual_info):&#160;backend.c'],['../group__backend__module.html#ga223fd1d4589cc83ab39cef9c08580edf',1,'set_tetramino_on_field(int **field, ModelInfo_t *actual_info):&#160;backend.c']]],
+  ['shift_5ftetramino_3',['shift_tetramino',['../group__backend__module.html#ga112b83fba98745c630d60bf131662c47',1,'shift_tetramino(ModelInfo_t *actual_info):&#160;backend.c'],['../group__backend__module.html#ga112b83fba98745c630d60bf131662c47',1,'shift_tetramino(ModelInfo_t *actual_info):&#160;backend.c']]],
+  ['space_5fkey_4',['SPACE_KEY',['../front_8h.html#abdcd784aab1ab72e5b041fef85328927',1,'front.h']]],
+  ['spawn_5',['Spawn',['../group__backend__module.html#gga975a4179a1c1ef42babe1ddd0b293298aaa91a7c5a479ef5add68c761703fbaee',1,'backend.h']]],
+  ['spawn_5ftetramino_6',['spawn_tetramino',['../group__backend__module.html#ga31edde894c73e3fc91825b067e50122a',1,'spawn_tetramino(ModelInfo_t *actual_info):&#160;backend.c'],['../group__backend__module.html#ga31edde894c73e3fc91825b067e50122a',1,'spawn_tetramino(ModelInfo_t *actual_info):&#160;backend.c']]],
+  ['spawn_5fx_5fposition_7',['SPAWN_X_POSITION',['../group__backend__module.html#ga17703c42f2417e4c8a069e99e0bbad5e',1,'backend.h']]],
+  ['spawn_5fy_5fposition_8',['SPAWN_Y_POSITION',['../group__backend__module.html#ga7515b11759fc16569fc5362edc1d7c5b',1,'backend.h']]],
+  ['speed_9',['speed',['../group__backend__module.html#gaf45093210232bc33f130c46f99e8b157',1,'ModelInfo_t::speed'],['../struct_game_info__t.html#a9cc403ee7fbba455d3ef0de350cf2b0c',1,'GameInfo_t::speed']]],
+  ['start_10',['Start',['../group__game__core.html#gga7ba289d7b97db30e0b7041ca2cef75a9abd5f9c956752ce4dc707b4624b3a36f7',1,'brick_game.h']]],
+  ['start_5fstate_11',['Start_state',['../group__backend__module.html#gga975a4179a1c1ef42babe1ddd0b293298a6ec0bec8650bbf9ae6ea3fd79171ffb8',1,'backend.h']]],
+  ['start_5ftest_12',['START_TEST',['../test_8c.html#a69c993d66dd9ad8d4e2c985e28afe23a',1,'START_TEST(Game_over_test):&#160;test.c'],['../test_8c.html#ada2ba75667bb522d8b7603bc15b8dfed',1,'START_TEST(pause_actions_test):&#160;test.c'],['../test_8c.html#a58adcd334b0761f059c0874f07f9039d',1,'START_TEST(attach_tetramino_test):&#160;test.c'],['../test_8c.html#afad92c518e5996c060d539a385f2c6c5',1,'START_TEST(shifting_test):&#160;test.c'],['../test_8c.html#a9b2234b41895673fbff5ef473310a849',1,'START_TEST(moving_test):&#160;test.c'],['../test_8c.html#a68ff104728547a44a6ecaff00914e1c0',1,'START_TEST(initialize_game_test):&#160;test.c'],['../test_8c.html#a668e725bcacb120838683d97514b9aef',1,'START_TEST(spawn_tetramino_test):&#160;test.c'],['../test_8c.html#a87f5b9fd5f69e5897ed947b349ee3f04',1,'START_TEST(input_test):&#160;test.c'],['../test_8c.html#abfbf61b4dd74c8e668c2bc10846847af',1,'START_TEST(score_and_high_score_test):&#160;test.c'],['../test_8c.html#a6d3c7b45e267abda46d58514bbf62cbc',1,'START_TEST(update_speed_and_level_test):&#160;test.c']]],
+  ['state_13',['state',['../group__backend__module.html#ga3e1d1909d19ce735bbab337969587686',1,'ModelInfo_t']]],
+  ['state_20machine_14',['Finite State Machine',['../fsm_page.html',1,'']]],
+  ['success_15',['SUCCESS',['../test_8h.html#aa90cac659d18e8ef6294c7ae337f6b58',1,'test.h']]]
+];

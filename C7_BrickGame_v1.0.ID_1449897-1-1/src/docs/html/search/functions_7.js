@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['read_5fscore_0',['read_score',['../group__backend__module.html#ga57a7632099314aed3c4b63ff14d18d2e',1,'read_score():&#160;backend.c'],['../group__backend__module.html#ga57a7632099314aed3c4b63ff14d18d2e',1,'read_score():&#160;backend.c']]],
+  ['remove_5fmatrix_1',['remove_matrix',['../group__backend__module.html#ga6c1fb6295b6bf2e74f3e85229038b3c3',1,'remove_matrix(int ***matrix, int rows):&#160;backend.c'],['../group__backend__module.html#ga6c1fb6295b6bf2e74f3e85229038b3c3',1,'remove_matrix(int ***matrix, int rows):&#160;backend.c']]],
+  ['reset_5fmatrix_2',['reset_matrix',['../group__backend__module.html#gae2b57487267c918cc5ce7b5dd1066266',1,'reset_matrix(int **src, int rows, int columns):&#160;backend.c'],['../group__backend__module.html#gae2b57487267c918cc5ce7b5dd1066266',1,'reset_matrix(int **src, int rows, int columns):&#160;backend.c']]],
+  ['rotate_5fmatrix_5f90_3',['rotate_matrix_90',['../group__backend__module.html#ga2e7c68debbda1ce05848ec3ea900317d',1,'rotate_matrix_90(int ***matrix):&#160;backend.c'],['../group__backend__module.html#ga2e7c68debbda1ce05848ec3ea900317d',1,'rotate_matrix_90(int ***matrix):&#160;backend.c']]],
+  ['run_5factions_5fby_5fstate_4',['run_actions_by_state',['../group__backend__module.html#ga1edbde5695d96cff33ceeaeed20f21ca',1,'run_actions_by_state(ModelInfo_t *actual_info):&#160;backend.c'],['../group__backend__module.html#ga1edbde5695d96cff33ceeaeed20f21ca',1,'run_actions_by_state(ModelInfo_t *actual_info):&#160;backend.c']]],
+  ['run_5fgame_5floop_5',['run_game_loop',['../front_8c.html#a0f45f77361bdc6895261e7f47d90f21c',1,'run_game_loop():&#160;front.c'],['../front_8h.html#a0f45f77361bdc6895261e7f47d90f21c',1,'run_game_loop():&#160;front.c']]],
+  ['run_5fterminate_5factions_6',['run_terminate_actions',['../group__backend__module.html#gace49bf4157171bd3afe2360e2a5dae21',1,'run_terminate_actions(ModelInfo_t *actual_info):&#160;backend.c'],['../group__backend__module.html#gace49bf4157171bd3afe2360e2a5dae21',1,'run_terminate_actions(ModelInfo_t *actual_info):&#160;backend.c']]]
+];

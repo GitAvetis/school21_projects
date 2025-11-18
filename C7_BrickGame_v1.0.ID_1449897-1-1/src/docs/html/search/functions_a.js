@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['update_5fhigh_5fscore_0',['update_high_score',['../group__backend__module.html#ga9ae32abd646755d7183c26dee42b80dd',1,'update_high_score(ModelInfo_t *actual_info):&#160;backend.c'],['../group__backend__module.html#ga9ae32abd646755d7183c26dee42b80dd',1,'update_high_score(ModelInfo_t *actual_info):&#160;backend.c']]],
+  ['update_5fscore_1',['update_score',['../group__backend__module.html#gaa2339c159fcb6fc347b70d8b1692473a',1,'update_score(ModelInfo_t *actual_info, int cleard_lines):&#160;backend.c'],['../group__backend__module.html#gaa2339c159fcb6fc347b70d8b1692473a',1,'update_score(ModelInfo_t *actual_info, int cleard_lines):&#160;backend.c']]],
+  ['update_5fspeed_5fand_5flevel_2',['update_speed_and_level',['../group__backend__module.html#ga2859d3ffce208e7e3c4bfb0d8b2accc6',1,'update_speed_and_level(ModelInfo_t *actual_info):&#160;backend.c'],['../group__backend__module.html#ga2859d3ffce208e7e3c4bfb0d8b2accc6',1,'update_speed_and_level(ModelInfo_t *actual_info):&#160;backend.c']]],
+  ['update_5ftimer_3',['update_timer',['../group__backend__module.html#gadce028f9cf088cb84ac6b389f08f75c3',1,'update_timer():&#160;backend.c'],['../group__backend__module.html#gadce028f9cf088cb84ac6b389f08f75c3',1,'update_timer():&#160;backend.c']]],
+  ['updatecurrentstate_4',['updateCurrentState',['../group__game__core.html#gafd5762991a9248a0b4192983fd786a8f',1,'updateCurrentState():&#160;backend.c'],['../group__game__core.html#gafd5762991a9248a0b4192983fd786a8f',1,'updateCurrentState():&#160;backend.c']]],
+  ['userinput_5',['userInput',['../group__game__core.html#gab961f91e569a34b6984536633126257a',1,'userInput(UserAction_t action, bool hold):&#160;backend.c'],['../group__game__core.html#gab961f91e569a34b6984536633126257a',1,'userInput(UserAction_t action, bool hold):&#160;backend.c']]]
+];

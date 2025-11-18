@@ -1,0 +1,14 @@
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\bin\Debug\net8.0\exercise4.exe
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\bin\Debug\net8.0\exercise4.deps.json
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\bin\Debug\net8.0\exercise4.runtimeconfig.json
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\bin\Debug\net8.0\exercise4.dll
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\bin\Debug\net8.0\exercise4.pdb
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\obj\Debug\net8.0\exercise4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\obj\Debug\net8.0\exercise4.AssemblyInfoInputs.cache
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\obj\Debug\net8.0\exercise4.AssemblyInfo.cs
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\obj\Debug\net8.0\exercise4.csproj.CoreCompileInputs.cache
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\obj\Debug\net8.0\exercise4.dll
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\obj\Debug\net8.0\refint\exercise4.dll
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\obj\Debug\net8.0\exercise4.pdb
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\obj\Debug\net8.0\exercise4.genruntimeconfig.cache
+C:\Users\pearlibl\school21\AP1_CS_T02.ID_1375345-1\src\exercise4\obj\Debug\net8.0\ref\exercise4.dll

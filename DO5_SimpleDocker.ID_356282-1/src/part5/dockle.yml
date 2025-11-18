@@ -1,0 +1,4 @@
+accept:
+  - NGINX_GPGKEYS
+  - KEY_SHA512 
+  - CIS-DI-0005

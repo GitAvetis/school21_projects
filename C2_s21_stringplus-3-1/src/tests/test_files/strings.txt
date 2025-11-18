@@ -1,0 +1,12 @@
+word
+two words
+0123456789
+0 0 0 0 0
+word and numbers 00 3 4 5
+-+!@#$%^&**()
+
+\n
+Ich will jetzt schllafen und eine Brotchen mit Käse!
+It's a very long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long  string
+A
+
