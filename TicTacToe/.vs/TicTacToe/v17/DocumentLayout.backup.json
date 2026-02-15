@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\JobTests\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|e:\\jobtests\\tictactoe\\web\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|solutionrelative:web\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|e:\\jobtests\\tictactoe\\web\\dto\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|solutionrelative:web\\dto\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|e:\\jobtests\\tictactoe\\web\\gamemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|solutionrelative:web\\gamemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|e:\\jobtests\\tictactoe\\web\\dto\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|solutionrelative:web\\dto\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|e:\\jobtests\\tictactoe\\datasource\\inmemorygamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|solutionrelative:datasource\\inmemorygamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|e:\\jobtests\\tictactoe\\domain\\models\\gamefieldmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|solutionrelative:domain\\models\\gamefieldmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|e:\\jobtests\\tictactoe\\web\\dto\\moverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|solutionrelative:web\\dto\\moverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|e:\\jobtests\\tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A72F52-9F70-4321-BDD1-D9D5C34CA74D}|TicTacToe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorResponseDto.cs",
+              "DocumentMoniker": "E:\\JobTests\\TicTacToe\\Web\\DTO\\ErrorResponseDto.cs",
+              "RelativeDocumentMoniker": "Web\\DTO\\ErrorResponseDto.cs",
+              "ToolTip": "E:\\JobTests\\TicTacToe\\Web\\DTO\\ErrorResponseDto.cs",
+              "RelativeToolTip": "Web\\DTO\\ErrorResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:46:21.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoveRequestDto.cs",
+              "DocumentMoniker": "E:\\JobTests\\TicTacToe\\Web\\DTO\\MoveRequestDto.cs",
+              "RelativeDocumentMoniker": "Web\\DTO\\MoveRequestDto.cs",
+              "ToolTip": "E:\\JobTests\\TicTacToe\\Web\\DTO\\MoveRequestDto.cs",
+              "RelativeToolTip": "Web\\DTO\\MoveRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T19:32:49.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameFieldModel.cs",
+              "DocumentMoniker": "E:\\JobTests\\TicTacToe\\Domain\\Models\\GameFieldModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\GameFieldModel.cs",
+              "ToolTip": "E:\\JobTests\\TicTacToe\\Domain\\Models\\GameFieldModel.cs",
+              "RelativeToolTip": "Domain\\Models\\GameFieldModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T19:25:22.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\JobTests\\TicTacToe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\JobTests\\TicTacToe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:03:47.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameMapper.cs",
+              "DocumentMoniker": "E:\\JobTests\\TicTacToe\\Web\\GameMapper.cs",
+              "RelativeDocumentMoniker": "Web\\GameMapper.cs",
+              "ToolTip": "E:\\JobTests\\TicTacToe\\Web\\GameMapper.cs",
+              "RelativeToolTip": "Web\\GameMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T17:52:19.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameDto.cs",
+              "DocumentMoniker": "E:\\JobTests\\TicTacToe\\Web\\DTO\\GameDto.cs",
+              "RelativeDocumentMoniker": "Web\\DTO\\GameDto.cs",
+              "ToolTip": "E:\\JobTests\\TicTacToe\\Web\\DTO\\GameDto.cs",
+              "RelativeToolTip": "Web\\DTO\\GameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T17:51:37.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "E:\\JobTests\\TicTacToe\\Web\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\GameController.cs",
+              "ToolTip": "E:\\JobTests\\TicTacToe\\Web\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Web\\Controllers\\GameController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T17:47:47.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAEVAAAAAAAAAAAwwAgVAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-14T19:38:32.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InMemoryGameRepository.cs",
+              "DocumentMoniker": "E:\\JobTests\\TicTacToe\\Datasource\\InMemoryGameRepository.cs",
+              "RelativeDocumentMoniker": "Datasource\\InMemoryGameRepository.cs",
+              "ToolTip": "E:\\JobTests\\TicTacToe\\Datasource\\InMemoryGameRepository.cs",
+              "RelativeToolTip": "Datasource\\InMemoryGameRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T17:44:21.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
