@@ -1,5 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 using TicTacToe.Datasource;
+using TicTacToe.Domain;
 
 namespace TicTacToe.Di
 {
@@ -9,6 +10,7 @@ namespace TicTacToe.Di
         {
             builder.Services.AddSingleton<IGameRepository, InMemoryGameRepository>();
             builder.Services.AddScoped<IGameService, GameService>();
+            builder.Services.AddScoped<IServiceDomain, GameDomainService>();
             builder.Services
                 .AddControllers()
                 .AddJsonOptions(options =>

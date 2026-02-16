@@ -1,5 +1,5 @@
 ﻿using TicTacToe.Datasource;
-using TicTacToe.Domain.Ai;
+using TicTacToe.Domain;
 using TicTacToe.Domain.Models;
 
 namespace TicTacToe
@@ -7,12 +7,12 @@ namespace TicTacToe
     public class GameService : IGameService
     {
         private readonly IGameRepository _repository;
-        private readonly MiniMax _miniMax;
+        private readonly IServiceDomain _domainService;
 
-        public GameService(IGameRepository repository)
+        public GameService(IGameRepository repository, IServiceDomain serviceDomain)
         {
             _repository = repository;
-            _miniMax = new MiniMax();
+            _domainService = serviceDomain;
         }
 
         public GameSessionModel CreateGame(int size)
@@ -35,9 +35,15 @@ namespace TicTacToe
 
             if (moveStatus == MoveStatus.Sucsess && vsAi && session.Result == GameResult.InProgress)
             {
-                (int aiX, int aiY) = _miniMax.GetBestMove(session.CurrentPlayer, session.Field.GetFieldCopy());
+                (int aiX, int aiY) = _domainService.GetNextMove(session);
                 session.TryMakeMove(aiX, aiY);
             }
+
+            if(!_domainService.ValidateField(session))
+                return MoveStatus.StateError;
+
+            if (_domainService.IsGameOver(session))
+                return MoveStatus.GameIsOver;
 
             _repository.Update(session);
             return moveStatus;

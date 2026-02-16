@@ -46,7 +46,7 @@ namespace TicTacToe.Web.Controllers
             {
                 ErrorResponseDto errorResponse = new ErrorResponseDto
                 {
-                    Error = "Cell already occupied.",
+                    Message = "ERROR: Cell already occupied.",
                     Game = gameDto
                 };
                 return BadRequest(errorResponse);
@@ -56,7 +56,17 @@ namespace TicTacToe.Web.Controllers
             {
                 ErrorResponseDto errorResponse = new ErrorResponseDto
                 {
-                    Error = "Move out of bounds.",
+                    Message = "ERROR: Move out of bounds.",
+                    Game = gameDto
+                };
+                return BadRequest(errorResponse);
+            }
+
+            if(moveResult == MoveStatus.GameIsOver)
+            {
+                ErrorResponseDto errorResponse = new ErrorResponseDto
+                {
+                    Message = $"Game over. Result of game: {session.Result}",
                     Game = gameDto
                 };
                 return BadRequest(errorResponse);
